@@ -1,0 +1,24 @@
+1.install node
+npm install -g nodemon
+
+2. goto specific folder path
+    
+nodemon index.js(this cmd runs the index.js and if any changes are done then automatically saved)
+    or
+node index.js(this also runs index.js but changes not saved.) 
+
+check browser type:// localhost:3000/greet
+
+3.nodemon checkLogin.js
+tYPE IN URL: http://localhost:8000/login
+
+4.   nodemon login.js
+
+type in url:  http://localhost:5000/login/object/knowit
+gives successgul login
+
+(now change user and pass)
+http://localhost:5000/login/object1/knowit1
+gives failed login
+
+	

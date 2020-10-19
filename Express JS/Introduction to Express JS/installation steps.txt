@@ -1,0 +1,34 @@
+Express Js
+
+1.check node version
+
+-node version
+
+2.Check npm version
+
+-npm version
+
+3. make one directory in D://
+
+-goto specific folder path using cmd
+-mkdir ExpressJs
+-npm init (this command creates package.json file which covers all common items like:
+
+	name:
+	version:
+	description :
+	main :
+	scripts:
+	test:
+	author:
+	license:
+)
+
+
+4.install express Js
+
+	-npm install --save  express
+
+5. install node mongoDB
+
+(this modules helps to restart your express server when changes save in app)
